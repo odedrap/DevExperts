@@ -1,1 +1,3 @@
-print("new line from side")
+print("new line from side"
+
+line)
